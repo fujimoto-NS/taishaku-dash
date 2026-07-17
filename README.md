@@ -12,11 +12,13 @@
 - Branch: `main`
 - Folder: `/ (root)`
 
-公開後のURL例:
+公開後のURL:
 
-`https://<github-user>.github.io/taishaku-dash/`
+`https://fujimoto-ns.github.io/taishaku-dash/`
 
 ## Included Files
 
 - `index.html`: ゲーム本体
-- `og.png`: X/OGP用画像
+- `404.html`: GitHub Pages用リダイレクト
+- `og.svg`: X/OGP用画像
+- `.nojekyll`: 静的配信設定
